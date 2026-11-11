@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Hosted-Selenium-Grid/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Hosted-Selenium-Grid?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Hosted-Selenium-Grid/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Hosted-Selenium-Grid?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Hosted-Selenium-Grid/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Cloud-Hosted-Selenium-Grid?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Hosted-Selenium-Grid/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -61,9 +61,9 @@ Commercial cloud grids eliminate infrastructure overhead by providing hosted hub
 
 ## 🛠️ Open-Source GitHub Projects
 
-Self-hosted and containerized Selenium grid solutions for platform engineering and QA teams building private cloud infrastructure. Sorted by **GitHub Stars** (descending):
+Self-hosted and containerized Selenium grid solutions for platform engineering and QA teams building private cloud infrastructure. Sorted by **GitHub_Stars** (descending):
 
-| 📦 Project | ⭐ Stars | 📖 Description |
+| 📦 Project | ⭐ GitHub_Stars | 📖 Description |
 |---|---|---|
 | **[SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium)** | [![Stars](https://img.shields.io/github/stars/SeleniumHQ/selenium?style=social&color=white)](https://github.com/SeleniumHQ/selenium/stargazers) | The official core browser automation framework and reference Selenium Grid 4 architecture featuring Router, Distributor, SessionMap, EventBus, and Appium relay. |
 | **[browserless/browserless](https://github.com/browserless/browserless)** | [![Stars](https://img.shields.io/github/stars/browserless/browserless?style=social&color=white)](https://github.com/browserless/browserless/stargazers) | Modern web service for running remote headless browsers. Supports WebDriver/Selenium, Playwright, and Puppeteer with Docker, Kubernetes, and horizontal auto-scaling. |
