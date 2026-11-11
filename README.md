@@ -1,6 +1,6 @@
 # Awesome-Cloud-Hosted-Selenium-Grid
 
-# Top Cloud-Hosted Selenium Grid Ecosystem
+## Top Cloud-Hosted Selenium Grid Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Remote Browser Orchestration, Parallel Test Execution & Grid Infrastructure Management*  
